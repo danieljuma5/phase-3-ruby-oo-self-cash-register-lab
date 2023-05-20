@@ -32,10 +32,7 @@ class CashRegister
 
     
   end
-
-
 end
 
 c1 = CashRegister.new(15)
-binding.pry
 
